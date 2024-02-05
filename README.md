@@ -87,7 +87,7 @@ Course: Introduction to Python Programming
 -Hierarchical Clustering
 -Principal Component Analysis
 
-##Project-9 Machine Learning based Disease Prediction Model
+##  Project-9 Machine Learning based Disease Prediction Model
 *Course: Supervised Learning - Classification
 
 *Build the binomial machine learning model to predict the Parkinson disease. The objective of this model is to classify the patients with the Parkinson disease. Perform the required pre-processing steps prior to model building and evaluate the model performance through proper tuning process.
@@ -99,7 +99,7 @@ Course: Introduction to Python Programming
 -Hyper parameter
 -Model Metrics
 
-##Project-10 Machine Learning model building for continuous variable prediction
+##  Project-10 Machine Learning model building for continuous variable prediction
 *Course: Supervised Learning - Regression
 
 *Build a Linear Machine Learning model to understand the relationship between the population of US cities in the year 1920 and 1930. Evaluate the model performance with appropriate measures. Perform all the required graphical and quantitative exploratory data analysis prior to model building. The dataset has 49 rows and 2 columns. The measurements are the population (in 1000's) of 49 U.S. cities in 1920 and 1930. The 49 cities are a random sample taken from the 196 largest cities in U.S
